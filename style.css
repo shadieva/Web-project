@@ -136,7 +136,7 @@
 
 .topline {
     height: 100vh;
-    background: url('../../assets/img/topline_bg.png') fixed 0 0 no-repeat;
+    background: url('assets/img/topline_bg.png') fixed 0 0 no-repeat;
     background-size: cover;
     display: grid;
     place-items: center;
